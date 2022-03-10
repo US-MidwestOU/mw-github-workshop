@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 
-## Create an API Management instance
+## Clone the GitHub Repo
 
 An instance can take some time to provision. Expect ~45-75 minutes. Therefore, please create an instance prior to any demo.
 
