@@ -7,4 +7,4 @@ nav_order: 7
 
 ## GitHub Actions, Events, Workflows
 
-- [Presentation Slides](../../assets/slides/GitHubAgileManagement.pdf) 
+### Content not present yet

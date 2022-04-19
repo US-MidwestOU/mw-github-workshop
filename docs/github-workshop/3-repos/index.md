@@ -9,4 +9,4 @@ nav_order: 4
 
 
 
-- [Presentation Slides](../../assets/slides/GitHubAgileManagement.pdf) 
+- [Presentation Slides](../../assets/slides/GitHubRepoTemplate.pdf) 

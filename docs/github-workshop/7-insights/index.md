@@ -8,4 +8,4 @@ nav_order: 8
 ## GitHub Insights
 
 
-- [Presentation Slides](../../assets/slides/GitHubAgileManagement.pdf) 
+### Content not present yet
