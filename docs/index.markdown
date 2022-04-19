@@ -1,4 +1,4 @@
-<img src="assets/images/apim-logo-transparent.png">
+<img src="assets/images/ghlogo.png" width="250">
 
 
 #  About this workshop
