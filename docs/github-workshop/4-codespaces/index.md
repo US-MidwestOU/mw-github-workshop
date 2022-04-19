@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 
-## GitHub Codespaces & Pull Requests 
+## GitHub Codespaces & Pull Requests/Merges
 
 ### Creating and handling Pull Requests 
 
