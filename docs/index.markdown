@@ -4,7 +4,7 @@
 #  About this workshop
 
 
-This hands-on lab will guide you through the concept of GitHub. 
+This hands-on lab will guide you through the concepts of GitHub. 
 
 
 # Contributors
