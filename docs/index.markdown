@@ -4,19 +4,7 @@
 #  About this workshop
 
 
-This hands-on lab will guide you through the concept of APIOps. It applies the concepts of GitOps and DevOps to API deployment. By using practices from these two methodologies, APIOps can enable everyone involved in the lifecycle of API design, development, and deployment with self-service and automated tools to ensure the quality of the specifications and APIs that they're building.
-
-APIOps places the Azure API Management infrastructure under version control to achieve these goals. Rather than making changes directly in API Management, most operations happen through code changes that can be reviewed and audited. This workshop is designed to bring customers and partners to a 400-level understanding of automating API deployments in Azure Api Management. This is meant to be a hands-on lab experience, all instructions are provided, but a basic level of understanding of apis, devops and gitops is expected.
-
-
-Slides
-
-- [APIOps Slides](assets/slides/APIOps.pptx)
-
-Diagrams
-
-- [APIOps Architecture Design Session](apiops/5-additionalTopics/apiops-10-1-architecture.md)
-
+This hands-on lab will guide you through the concept of GitHub. 
 
 
 # Contributors
