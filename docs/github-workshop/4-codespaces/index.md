@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 
-## GitHub Codespaces & Pll Requests 
+## GitHub Codespaces & Pull Requests 
 
 
 - [Presentation Slides](../../assets/slides/GitHubCICD.pdf) 
