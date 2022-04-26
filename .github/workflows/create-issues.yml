@@ -1,8 +1,10 @@
 name: Create Issues Weekly
 
 on:
-  schedule:
-    - cron: '0 9 * * 1' # At 09:00 on Monday
+  workflow_dispatch:
+# on:
+  # schedule:
+    # - cron: '0 9 * * 1' # At 09:00 on Monday
 
 jobs:
   create_issue:
